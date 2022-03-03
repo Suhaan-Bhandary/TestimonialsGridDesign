@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://github.com/Suhaan-Bhandary/TestimonialsGridDesign](https://github.com/Suhaan-Bhandary/TestimonialsGridDesign)
+- Live Site URL: [https://suhaan-bhandary.github.io/TestimonialsGridDesign/](https://suhaan-bhandary.github.io/TestimonialsGridDesign)
 
 ### Built with
 
